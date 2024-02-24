@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://digibrax.com/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://digibrax.com/criacao-de-site-para-advogados</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digibrax.com/criacao-de-site-para-medicos</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digibrax.com/criacao-de-site-para-dentistas</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digibrax.com/portfolio</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digibrax.com/sobre</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digibrax.com/contato</loc>
+  <priority>0.80</priority>
+</url>
+
+
+<url>
+  <loc>https://digibrax.com/politica-de-privacidade</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digibrax.com/termos-de-uso</loc>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
