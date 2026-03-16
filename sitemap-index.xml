@@ -1,75 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://digibrax.com/</loc>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/criacao-de-site-para-advogados/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/criacao-de-site-para-contabilidade/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/criacao-de-site-para-medicos/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/criacao-de-site-para-dentistas/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/criacao-de-site-para-psicologos/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/criacao-de-site-para-nutricionistas/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/criacao-de-site-para-engenheiros/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/criacao-de-site-para-empresas/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/criacao-de-site-para-vendas/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/portfolio</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/sobre</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/contato</loc>
-  <priority>0.80</priority>
-</url>
-
-
-<url>
-  <loc>https://digibrax.com/politica-de-privacidade</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digibrax.com/termos-de-uso</loc>
-  <priority>0.80</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://digibrax.com/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/index.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/portfolio.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/sobre.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/contato.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/politica-de-privacidade.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/termos-de-uso.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-advogados/index.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-medicos/index.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-dentistas/index.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-contabilidade/index.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-psicologos/index.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-nutricionistas/index.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-engenheiros/index.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-empresas/index.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-vendas/index.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/portfolio</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/politica-de-privacidade</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/sobre</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/contato</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/termos-de-uso</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-advogados/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-contabilidade/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-dentistas/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-psicologos/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-nutricionistas/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-medicos/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-empresas/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-engenheiros/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://digibrax.com/site-para-vendas/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.9</priority>
+  </url>
 </urlset>
